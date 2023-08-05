@@ -17,7 +17,7 @@ string Serializado = JsonConvert.SerializeObject(SalesList, Formatting.Indented)
 string Falseado = JsonConvert.SerializeObject(Sale_Fake, Formatting.Indented);
 //Console.WriteLine(Serializado);
 //Console.WriteLine("  ");
-//Console.WriteLine("  ");
+Console.WriteLine("  ");
 
 
 
